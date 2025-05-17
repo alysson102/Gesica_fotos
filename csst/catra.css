@@ -571,14 +571,13 @@ section.contw > h1{
         width: 100%;
         text-align: center;
         float: right;
-        margin-top: -10px;
     }
 
     .meni2 ul{
         width: 100%;
         background-color: rgba(245, 182, 193, 0.921);
         position: absolute;
-        top: 90px;
+        top: 80px;
         display: none;
         list-style-type: none;
         padding: 20px 0;
