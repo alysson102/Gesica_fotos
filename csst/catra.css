@@ -547,6 +547,11 @@ section.contw > h1{
 
 @media screen and (max-width: 800px){
 
+
+    header{
+        height:100%;
+        max-heigh:20px;
+    }
     
     section.sec0{
         padding-top: 70%;
@@ -554,7 +559,7 @@ section.contw > h1{
 
     .log{
         margin-left: 10px;
-        margin-top: -20px;
+        margin-top: 10px;
     }
 
     .meni{
